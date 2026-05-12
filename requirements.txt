@@ -3,3 +3,4 @@ pdfplumber
 scikit-learn
 pandas
 nltk
+beautifulsoup4
